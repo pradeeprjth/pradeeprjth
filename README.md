@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeeprjth
+- 👋 Hi, I’m Pradeep Kumar
 - 👀 I’m interested in Developing new Softwares 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me pradeep.cotocus@gmail.com
