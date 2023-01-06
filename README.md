@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">A passionate fullstack develoer</h3>
 
-- 🔭 I’m currently working on [Professnow](https://professnow.com/)
+- 🔭 I’m currently working on [moneynmore](https://moneynmore.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
